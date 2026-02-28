@@ -14,7 +14,9 @@ THIS DASHBOARD IS ACTUALLY COMPLETE DYNAMIC AND INTERACTIVE DASHBOARD WHICH WILL
 
 ## DATA -->
 LINK ----- 
+## 📊 Dashboard Preview
 
+![Dashboard](Images/Screenshot%202026-02-28%20055626.png)
 # STEPS IN PROJECT :
 * Requirement Gathering
 * Stakeholders in Project
