@@ -66,7 +66,12 @@ Total casualities with respect to vehicle type for current Year
 * Importing Images
 * creating different charts and insights
 * Export the Report to users 
-
-* 
+# MYSQL functionalities --
+# STEPS IN PROJECT 
+* Raw Data Walkthrough
+* Create Database
+* Import Data In MS SQL SERVER
+* Write SQL Quieries To Get Desired O/P as Per Requirements
+* Create a Test Document
 
 
