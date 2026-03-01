@@ -73,5 +73,7 @@ Total casualities with respect to vehicle type for current Year
 * Import Data In MS SQL SERVER
 * Write SQL Quieries To Get Desired O/P as Per Requirements
 * Create a Test Document
-
-
+# METADATA 
+* File Extension -- .csv
+* No of Rows -- 3.07 Lakhs
+* No of Fields - 21
