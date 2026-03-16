@@ -120,6 +120,13 @@ Road-Accident-DashBoard/
 2. Open `road_accident_queries.sql`
 3. Run queries section by section — results should match Power BI KPI values
 
+## What's in the SQL file:
+
+Section 1–2: Primary KPIs — total casualties, YoY growth, severity breakdown. These directly validate your Power BI numbers.
+Section 3–6: Secondary KPIs — vehicle type, monthly trends, road type, urban/rural, day/night splits.
+Section 7: Advanced queries using WINDOW FUNCTIONS — LAG() for month-over-month change, RANK(), DENSE_RANK(), CTEs for Pareto analysis. This is what separates you from tutorial-level candidates at Deloitte/Amazon screening.
+Section 8: Data quality checks — null detection, duplicate validation, date range verification. Shows professional data engineering awareness.
+
 ---
 
 ## 👥 Stakeholders
